@@ -52,15 +52,15 @@ Salve os prints na pasta `docs/prints/` com os nomes abaixo.
 
 | Splash | Onboarding | Home |
 |--------|------------|------|
-| ![Splash](docs/prints/splash.png) | ![Onboarding](docs/prints/onboarding.png) | ![Home](docs/prints/home.png) |
+| ![Splash](assets/images/prints/splash.png) | ![Onboarding](assets/images/prints/onboarding.png) | ![Home](assets/images/prints/home.png) |
 
 | Previsão | Detalhes do dia | Favoritos |
 |----------|-----------------|-----------|
-| ![Previsão](docs/prints/previsao.png) | ![Detalhes](docs/prints/detalhes.png) | ![Favoritos](docs/prints/favoritos.png) |
+| ![Previsão](assets/images/prints/previsoes.png) | ![Detalhes](assets/images/prints/detalhes.png) | ![Favoritos](assets/images/prints/favoritos.png) |
 
 | Dicas | Erro de conexão |
 |-------|-----------------|
-| ![Dicas](docs/prints/dicas.png) | ![Erro](docs/prints/erro.png) |
+| ![Dicas](assets/images/prints/dicas.png) | ![Erro](assets/images/prints/erro.png) |
 
 ## API utilizada
 
